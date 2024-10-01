@@ -1,5 +1,5 @@
 # just-html
-## Greek Laws in plain html format
+## Greek Laws in HTML format
 
 <br>
 
